@@ -9,7 +9,7 @@ This repositoary contains following Machine Learning Books
 7. Machine Learning Projects for .NET Developers
 8. Machine Learning in Medicine_ A Complete Overview
 9. Machine Learning and Systems Engineering
-10. LNAI 9047_ Statistical Learning and Data Sciences [Pdf] (https://github.com/Anjali8356/Machine-Learning-Books/blob/main/ML-LNAI%209047_%20Statistical%20Learning%20and%20Data%20Sciences.pdf)
+10. LNAI 9047_ Statistical Learning and Data Sciences [Pdf](https://github.com/Anjali8356/Machine-Learning-Books/blob/main/ML-LNAI%209047_%20Statistical%20Learning%20and%20Data%20Sciences.pdf)
 11. Introduction to Pattern Recognition and Machine Learning [Pdf](https://github.com/Anjali8356/Machine-Learning-Books/blob/main/ML-Introduction%20to%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
 12. From Curve Fitting to Machine Learning [Pdf](https://github.com/Anjali8356/Machine-Learning-Books/blob/main/ML-From%20Curve%20Fitting%20to%20Machine%20Learning.pdf)
 13. Ensembles in Machine Learning Applications [Pdf](https://github.com/Anjali8356/Machine-Learning-Books/blob/main/ML-Ensembles%20in%20Machine%20Learning%20Applications.pdf)
