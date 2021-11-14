@@ -1,9 +1,9 @@
 # Machine-Learning-Books
 This repositoary contains following Machine Learning Books
-Combinatorial Machine Larning - A rough set approach 
-ML-Thoughtful Machine Learning_ A Test-Driven Approach
-ML-Optimization for Machine Learning
-ML-Machine Learning_ An Algorithmic Perspective (2nd ed.)
+1. Combinatorial Machine Larning - A rough set approach [Pdf](https://github.com/Anjali8356/Machine-Learning-Books/blob/main/ML-Combinatorial%20Machine%20Learning_%20A%20Rough%20Set%20Approach.pdf)
+2. Thoughtful Machine Learning-  A Test-Driven Approach [Pdf](https://github.com/Anjali8356/Machine-Learning-Books/blob/main/ML-Thoughtful%20Machine%20Learning_%20A%20Test-Driven%20Approach.pdf)
+3. Optimization for Machine Learning [Pdf](https://github.com/Anjali8356/Machine-Learning-Books/blob/main/ML-Optimization%20for%20Machine%20Learning.pdf)
+4. -Machine Learning_ An Algorithmic Perspective (2nd ed.)[Pdf](https://github.com/Anjali8356/Machine-Learning-Books/blob/main/ML-Machine%20Learning_%20An%20Algorithmic%20Perspective%20(2nd%20ed.).pdf)
 ML-Machine Learning_ A Probabilistic Perspective
 ML-Machine Learning with Spark
 ML-Machine Learning Projects for .NET Developers
